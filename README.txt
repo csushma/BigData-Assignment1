@@ -1,4 +1,7 @@
 README
+Please use below link to get the data
+https://drive.google.com/folderview?id=0B0vdRkcBHx41RDlsbkloQkp1MUE&usp=sharing
+In order to execute please change the path pointing to dataset accordingly
 
 I am using sandbox hortonworks on my virtual machine.
 
