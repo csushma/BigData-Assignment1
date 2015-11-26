@@ -5,6 +5,25 @@ In order to execute please change the path pointing to dataset accordingly
 
 I am using sandbox hortonworks on my virtual machine.
 
+Queries for Mapreduce:
+Q1:
+Q 1 a: Count the total number of reviews,
+Q 1 b: Count total number of users
+Q 1 c: Count total number of business entities in the data.csv file.
+
+Q2.
+List each business Id that are located in “Palo Alto” using the full_address column as the
+filter column.
+
+Q3
+Find the top ten rated businesses using the average ratings.
+The star column represents the rating.
+
+Q4:
+Please use reduce side join and job chaining technique to answer question 4.
+
+Q5: Please use Map side join technique to answer this question
+
 Steps to execute
 ----------------
 create input folder
