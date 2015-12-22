@@ -51,3 +51,7 @@ hadoop jar q4.jar Q4 input/data.csv output
 
 Question5
 hadoop jar q5.jar Q5 input/review.csv output
+
+Look here for implementation in 
+PIG,Hive, Cassandra -> https://github.com/csushma/BigData-Assignment2
+ and Scala -> https://github.com/csushma/BigData-Assignment3
